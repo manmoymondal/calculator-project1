@@ -26,4 +26,4 @@ A basic calculator program built in C that performs everyday math operations.
 - C Programming Language
 
 ## Author
-YOUR NAME
+MANMOY MONDAL
