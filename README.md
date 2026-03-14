@@ -14,7 +14,7 @@ A basic calculator program built in C that performs everyday math operations.
 ## How to Run
 
 1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/manmoymondal/calculator-project1.git
 
 2. Compile the program
    gcc calculator.c -o calculator -lm
